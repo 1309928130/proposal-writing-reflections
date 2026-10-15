@@ -41,7 +41,7 @@ for use as teaching material on research methodology and proposal supervision.
   "upstream" fields (e.g. *resilience* from ecology, *assemblage thinking* from
   philosophy). A larger disciplinary span often yields novel findings.
 
-**[Part 3 — Let it be unfinished, and beware quantitative overreach](03-matury-and-quantitative-caution.md)**
+**[Part 3 — Let it be unfinished, and beware quantitative overreach](03-not-too-polished-and-quantitative-caution.md)**
 
 - **The proposal should not be *too* polished.** An over-mature, keyword-stuffed RP
   invites the question: did you write this yourself? A student who cannot speak
@@ -67,7 +67,7 @@ master's and doctoral level.
 |---|---|
 | [`01-applied-vs-research-thinking.md`](01-applied-vs-research-thinking.md) | Applied vs. research thinking; ask WHY not HOW |
 | [`02-real-world-and-interdisciplinarity.md`](02-real-world-and-interdisciplinarity.md) | Real-world relevance; interdisciplinarity |
-| [`03-matury-and-quantitative-caution.md`](03-matury-and-quantitative-caution.md) | Don't over-polish; a caution on quantitative research |
+| [`03-not-too-polished-and-quantitative-caution.md`](03-not-too-polished-and-quantitative-caution.md) | Don't over-polish; a caution on quantitative research |
 
 ## License
 
